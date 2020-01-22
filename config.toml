@@ -1,0 +1,17 @@
+baseURL = "IronMaos.github.io/hugotester"
+languageCode = "en-us"
+title = "DigiPro QuickStart"
+theme = "bootstrap-bp-hugo-startpage"
+publishDir = "docs"
+
+[params]
+  description = "DigiPro QuickStart"
+  #images = ["logo.jpg"]
+  startPageColumns = false
+  titleText = "DigiPro"
+  welcomeText = "Better. Stronger. Faster. Welcome to Digital Production."
+
+[[params.searchEngines]]
+  name = "ZymerNet"
+  activated = false
+  url = "www.google.com"

@@ -1,0 +1,46 @@
+html, body {
+    height: 100%;
+    font-family: "Novozymes-Bd", "Novozymes", "Verdana";
+}
+
+body {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    background: url("../images/bg.jpg");
+    background-size: cover;
+    flex-wrap: wrap;
+}
+
+h1 {
+    color: #C5DA00;
+    font-weight: bold;
+    font-size: 4em;
+}
+
+h2 {
+    color: #ffffff;
+    font-size: 2em;
+    font-style: italic;
+}
+
+.iconLink {
+    color: red;
+}
+.iconLink:hover{
+    color: green;
+}
+
+.card {
+    opacity: 0.8;
+    background-color: #ffffff;
+    color: red !important;
+}
+.card:hover {
+    opacity: 1.0;
+}
+
+.cursorPointer:hover {
+    cursor: pointer;
+}
