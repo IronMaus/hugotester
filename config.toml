@@ -1,4 +1,4 @@
-baseURL = "IronMaos.github.io/hugotester"
+baseURL = "ironmaos.github.io/hugotester"
 languageCode = "en-us"
 title = "DigiPro QuickStart"
 theme = "bootstrap-bp-hugo-startpage"
