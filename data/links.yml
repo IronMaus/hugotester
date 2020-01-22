@@ -4,17 +4,17 @@
     - title: Performance Review
       url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
       icon: fas fa-theater-masks
-    - title: Fermentation Productivity
+    - title: Firm Productivity
       url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
       icon: fas fa-chart-line
-    - title: IRIS Process Scaling
+    - title: IRIS
       url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
       icon: far fa-eye
-- group: Yggdrasil
+- group: BigTree
   items:
-    - title: Yggdrasil X Notebooks
+    - title: BigTree X Notebooks
       url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
       icon: fas fa-leaf
-    - title: DigiPro Home
+    - title: QigiBro Home
       url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
       icon: fas fa-home

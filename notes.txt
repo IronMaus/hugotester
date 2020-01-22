@@ -1,0 +1,3 @@
+will need to change baseURL in config to new location if moved
+
+before upload, run "hugo -t bootstrap-bp-hugo-startpage" to build into /docs folder

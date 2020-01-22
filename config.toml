@@ -1,17 +1,17 @@
 baseURL = "https://ironmaos.github.io/hugotester"
 languageCode = "en-us"
-title = "DigiPro QuickStart"
+title = "QigiBro QuickStart"
 theme = "bootstrap-bp-hugo-startpage"
 publishDir = "docs"
 
 [params]
-  description = "DigiPro QuickStart"
+  description = "QigiBro QuickStart"
   #images = ["logo.jpg"]
   startPageColumns = false
-  titleText = "DigiPro"
-  welcomeText = "Better. Stronger. Faster. Welcome to Digital Production."
+  titleText = "QigiBro"
+  welcomeText = "Better. Stronger. Faster. Welcome to Qigital Broduction."
 
 [[params.searchEngines]]
-  name = "ZymerNet"
+  name = "QymerNet"
   activated = false
   url = "www.google.com"
