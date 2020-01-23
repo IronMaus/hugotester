@@ -10,11 +10,11 @@
     - title: IRIS
       url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
       icon: far fa-eye
-- group: BigTree
-  items:
-    - title: BigTree X Notebooks
-      url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-      icon: fas fa-leaf
-    - title: QigiBro Home
-      url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-      icon: fas fa-home
+# - group: BigTree
+#   items:
+#     - title: BigTree X Notebooks
+#       url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+#       icon: fas fa-leaf
+#     - title: QigiBro Home
+#       url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+#       icon: fas fa-home

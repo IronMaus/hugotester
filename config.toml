@@ -9,7 +9,40 @@ publishDir = "docs"
   #images = ["logo.jpg"]
   startPageColumns = false
   titleText = "QigiBro"
-  welcomeText = "Better. Stronger. Faster. Welcome to Qigital Broduction."
+  welcomeText = "Better. Stronger. Faster. Welcome to Qigidal Brobuktion."
+  homeURL = "https://www.google.com"
+
+[menu]
+  [[menu.resources]]
+    identifier = "wiki"
+    name = "QigiWiki"
+    url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+
+  [[menu.resources]]
+    identifier = "gitlab"
+    name = "GitLab"
+    url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+
+  [[menu.resources]]
+    identifier = "confluence"
+    name = "Confluence"
+    url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+
+  [[menu.verybigtree]]
+    identifier = "vbt1"
+    name = "VeryBigTree 1"
+    url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+
+  [[menu.verybigtree]]
+    identifier = "vbt2"
+    name = "VeryBigTree 2"
+    url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  
+  [[menu.verybigtree]]
+    identifier = "vbtx"
+    name = "VeryBigTree X"
+    url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+
 
 [[params.searchEngines]]
   name = "QymerNet"

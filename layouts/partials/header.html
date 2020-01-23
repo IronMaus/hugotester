@@ -1,0 +1,33 @@
+<div class="navbar-wrapper">
+    <nav class="navbar sticky-top navbar-expand-sm navbar-light bg-light ">
+            
+        <a class="navbar-brand" href="{{.Site.Params.homeURL}}"> QigiBro Home</a>
+        
+        <ul class="navbar-nav ml-auto">
+
+            <div class="btn-group">
+                <button type="button" class="btn btn-outline-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Resources <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu dropdown-menu-right">
+                    {{ range .Site.Menus.resources }}
+                        <li class="dropdown-item">
+                            <a class="nav-link" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+                        </li>
+                    {{ end }}
+                </ul>
+            </div>
+
+            <div class="btn-group">
+                <button type="button" class="btn btn-outline-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> VeryBigTree <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu dropdown-menu-right">
+                    {{ range .Site.Menus.verybigtree }}
+                        <li class="dropdown-item">
+                            <a class="nav-link" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+                        </li>
+                    {{ end }}
+                </ul>
+            </div>
+        </ul>
+    </nav>
+</div>
